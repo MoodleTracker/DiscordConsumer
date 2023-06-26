@@ -2,6 +2,8 @@ github.com/MoodleTracker/Protocol-Go v0.0.0-20230626061021-8a5b9e24cc76 h1:z/+dw
 github.com/MoodleTracker/Protocol-Go v0.0.0-20230626061021-8a5b9e24cc76/go.mod h1:EcI9vU9n4odC/6OtLHjXted3tpCQ3IWiX3RHF96fxtU=
 github.com/MoodleTracker/Protocol-Go v0.0.1 h1:SIlKq5sCsYcB5D2niDiTuGo+cz/POycxp4JEHKPWge0=
 github.com/MoodleTracker/Protocol-Go v0.0.1/go.mod h1:EcI9vU9n4odC/6OtLHjXted3tpCQ3IWiX3RHF96fxtU=
+github.com/MoodleTracker/Protocol-Go v1.0.0 h1:gBaxPr8k7arYyxEZdoX8QD1kIOkKUYoy2FEH6Bo0HGg=
+github.com/MoodleTracker/Protocol-Go v1.0.0/go.mod h1:EcI9vU9n4odC/6OtLHjXted3tpCQ3IWiX3RHF96fxtU=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=
